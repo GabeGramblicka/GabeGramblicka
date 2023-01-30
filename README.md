@@ -6,8 +6,10 @@ I am a computer science student at DigiPen Institute of Technology in Redmond, W
 I'm interested in making games and especially ones that have an impact through storytelling and world building
 For now, I'm working on my coursework and game projects both provided by DigiPen.  
 
-### 👷 I’m currently working on ...  
+### 👷 Current game project ...
 [](url)
+
+### ✔️ Previous projects ...
 
 
 
