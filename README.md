@@ -7,7 +7,7 @@ I'm interested in making games and especially ones that have an impact through s
 For now, I'm working on my coursework and game projects both provided by DigiPen.  
 
 ### 👷 Current game project ...
-[](url)
+- [Tugboat Terror](https://github.com/GabeGramblicka/gam150-project)
 
 ### ✔️ Previous projects ...
 - [Getaway](https://github.com/GabeGramblicka/gam100-project)
