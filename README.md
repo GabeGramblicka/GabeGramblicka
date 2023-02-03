@@ -10,6 +10,7 @@ For now, I'm working on my coursework and game projects both provided by DigiPen
 [](url)
 
 ### ✔️ Previous projects ...
+- [Getaway](https://github.com/GabeGramblicka/gam100-project)
 
 
 
