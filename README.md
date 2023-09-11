@@ -7,9 +7,10 @@ I'm interested in making games especially with an impact through storytelling an
 For now, I'm working on my coursework and game projects both provided by DigiPen.  
 
 ### 👷 Current game project ...
-- [Tugboat Terror](https://github.com/GabeGramblicka/gam150-project)
+- Dread It
 
 ### ✔️ Previous projects ...
+- [Tugboat Terror](https://github.com/GabeGramblicka/gam150-project)
 - [Getaway](https://github.com/GabeGramblicka/gam100-project)
 
 
