@@ -2,7 +2,7 @@
 Hello and welcome to my GitHub portfolio!
 
 ### About Me:
-I am a computer science student (Bachelor of Science in Computer Science and Game Design) at DigiPen Institute of Technology in Redmond, WA, USA.
+I am a computer science student (Bachelor of Science in Computer Science and Real Time Interactive Simulation) at DigiPen Institute of Technology in Redmond, WA, USA.
 I'm interested in making games especially with an impact through storytelling and world building.
 For now, I'm working on my coursework and game projects both provided by DigiPen.  
 
