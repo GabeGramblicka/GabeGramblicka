@@ -9,6 +9,9 @@ For now, I'm working on my coursework and game projects both provided by DigiPen
 ### 👷 Current game project ...
 - Dread It
 
+### 👷Personal projects ...
+- [Install Programs](https://github.com/GabeGramblicka/InstallPrograms)
+
 ### ✔️ Previous projects ...
 - [Tugboat Terror](https://github.com/GabeGramblicka/gam150-project)
 - [Getaway](https://github.com/GabeGramblicka/gam100-project)
