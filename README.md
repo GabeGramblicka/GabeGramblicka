@@ -7,14 +7,14 @@ I'm interested in making games especially with an impact through storytelling an
 For now, I'm working on my coursework and game projects both provided by DigiPen.  
 
 ### 👷 Current game project ...
-- SHUTTLEFALL 😄
+- SHUTTLEFALL 
 
 
 ### 👷Personal projects ...
 - [Install Programs](https://github.com/GabeGramblicka/InstallPrograms)
 
 ### ✔️ Previous projects ...
-- [Dread It](https://www.gabegramblicka.com/dreadit.html)
+- [DREAD IT](https://www.gabegramblicka.com/dreadit.html)
 - [Tugboat Terror](https://www.gabegramblicka.com/tugboatterror.html)
 - [Getaway](https://github.com/GabeGramblicka/gam100-project)
 
