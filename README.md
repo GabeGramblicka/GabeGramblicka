@@ -15,7 +15,7 @@ For now, I'm working on my coursework and game projects both provided by DigiPen
 ### ✔️ Previous projects ...
 - [DREAD IT](https://www.gabegramblicka.com/dreadit.html)
 - [Tugboat Terror](https://www.gabegramblicka.com/tugboatterror.html)
-- [Install Programs](https://github.com/GabeGramblicka/InstallPrograms)
+- [Install Programs](https://www.gabegramblicka.com/installprograms.html)
 - [Getaway](https://github.com/GabeGramblicka/gam100-project)
 
 
